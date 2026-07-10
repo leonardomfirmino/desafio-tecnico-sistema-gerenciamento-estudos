@@ -50,34 +50,34 @@ Este projeto foi desenvolvido como prática para demonstrar conhecimentos em Jav
 
 ## Menu Principal
 
-![Menu](docs/menu.png)
+![Menu](src/docs/menu.png)
 
 ## Cadastro
 
-![Cadastro](docs/cadastro-disciplina.png)
+![Cadastro](src/docs/cadastro-disciplina.png)
 
 ## Registro de Estudos
 
-![RegistroEstudos](docs/registro-estudo-disciplina.png)
+![RegistroEstudos](src/docs/registro-estudo-disciplina.png)
 
 ## Registro de Questôes
 
-![RegistroQuestoes](docs/registro-questoes-disciplina.png)
+![RegistroQuestoes](src/docs/registro-questoes-disciplina.png)
 
 ## Consulta
 
-![Consulta](docs/consultar-disciplina.png)
+![Consulta](src/docs/consultar-disciplina.png)
 
 
 ## Ranking
 
-![Ranking](docs/ranking-prioridade-estudos.png)
+![Ranking](src/docs/ranking-prioridade-estudos.png)
 
 ## Sincronizar da Api
 
-![Api](docs/sincronizacao-api.png)
+![Api](src/docs/sincronizacao-api.png)
 
 ## Salvar Dados
 
-![Salvar](docs/salvar-registros.png)
+![Salvar](src/docs/salvar-registros.png)
 
