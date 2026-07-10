@@ -104,7 +104,7 @@ public class Disciplina {
 
     @Override
     public String toString() {
-        return "Disciplina=" + nome + "\nPeso da Prova=" + pesoProva + ",\nHoras Estudadas=" + horasEstudadas + "\nQuestoes Resolvidas=" + questoesResolvidas + ",\nAcertos="
+        return "\n \nDisciplina=" + nome + "\nPeso da Prova=" + pesoProva + ",\nHoras Estudadas=" + horasEstudadas + "\nQuestoes Resolvidas=" + questoesResolvidas + ",\nAcertos="
                 + acertos + "\nUltimo dia Estudado=" + ultimoEstudo+"\nPioridade= "+prioridade;
     }
 

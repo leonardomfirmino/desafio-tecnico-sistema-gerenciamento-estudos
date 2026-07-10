@@ -15,7 +15,6 @@ public class FuncionalidadeUtil {
         System.out.printf("Peso da prova: ");
         int peso = scan.nextInt();
         service.cadastrar(nome, peso);
-        System.out.println(service);
         System.out.println("\nDisciplina cadastrada com sucesso!");
     }
 
