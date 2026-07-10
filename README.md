@@ -47,3 +47,37 @@ git clone URL_DO_REPOSITORIO
 ## Objetivo
 
 Este projeto foi desenvolvido como prática para demonstrar conhecimentos em Java e servir como portfólio para vagas de Desenvolvedor Java Júnior.
+
+## Menu Principal
+
+![Menu](docs/menu.png)
+
+## Cadastro
+
+![Cadastro](docs/cadastro-disciplina.png)
+
+## Registro de Estudos
+
+![RegistroEstudos](docs/registro-estudo-disciplina.png)
+
+## Registro de Questôes
+
+![RegistroQuestoes](docs/registro-questoes-disciplina.png)
+
+## Consulta
+
+![Consulta](docs/consultar-disciplina.png)
+
+
+## Ranking
+
+![Ranking](docs/ranking-prioridade-estudos.png)
+
+## Sincronizar da Api
+
+![Api](docs/sincronizacao-api.png)
+
+## Salvar Dados
+
+![Salvar](docs/salvar-registros.png)
+
